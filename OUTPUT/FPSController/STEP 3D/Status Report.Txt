@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:55:29 AM On 8/3/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [FPSController.PcbDoc]
+   Generated File[FPSController.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:55:32 AM On 8/3/2022

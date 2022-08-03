@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:00:36 AM On 8/3/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [FPSInterface.PcbDoc]
+   Generated File[FPSInterface.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:00:39 AM On 8/3/2022

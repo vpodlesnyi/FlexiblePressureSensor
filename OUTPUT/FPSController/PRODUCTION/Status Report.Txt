@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [FPSController.PcbDoc]
+   Generated File[FPSController.GTO]
+   Generated File[FPSController.GTS]
+   Generated File[FPSController.GTL]
+   Generated File[FPSController.G1]
+   Generated File[FPSController.G2]
+   Generated File[FPSController.GBL]
+   Generated File[FPSController.GBS]
+   Generated File[FPSController.GBO]
+   Generated File[FPSController.GKO]
+   Generated File[FPSController.RUL]
+   Generated File[FPSController.EXTREP]
+   Generated File[FPSController.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:54:07 AM On 8/3/2022

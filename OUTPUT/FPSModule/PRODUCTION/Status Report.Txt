@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [FPSModule.PcbDoc]
+   Generated File[FPSModule.GTO]
+   Generated File[FPSModule.GTS]
+   Generated File[FPSModule.GTL]
+   Generated File[FPSModule.G1]
+   Generated File[FPSModule.G2]
+   Generated File[FPSModule.GBL]
+   Generated File[FPSModule.GBS]
+   Generated File[FPSModule.GBO]
+   Generated File[FPSModule.GKO]
+   Generated File[FPSModule.RUL]
+   Generated File[FPSModule.EXTREP]
+   Generated File[FPSModule.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 11:08:55 AM On 8/3/2022
