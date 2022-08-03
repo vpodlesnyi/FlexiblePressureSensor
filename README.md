@@ -12,6 +12,6 @@ Technical specifications:
 - reference input drive circuit for the ADS8866IDGSR;
 - main MCU STM32F103C8T6;
 
-![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/sensor.jpg)
+![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/sensor1.jpg)
 
 
