@@ -1,5 +1,5 @@
 # FlexiblePressureSensor
-The device of 6 component force-torque sensor for force-torque sensing system.
+The device of a 6 component force-torque sensor for a force-torque sensing system.
 
 The PCB assembly contains of six analog sensor modules, one controller module and one interface module.
 
